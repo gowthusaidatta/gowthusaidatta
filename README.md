@@ -1,213 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=G%20V%20V%20S%20S%20Datta%20Manikanta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%7C%20Backend%20Engineering%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Java&descAlignY=56&descColor=cbd5e1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1120,50:16213E,100:0F3460&text=G%20V%20V%20S%20S%20Datta%20Manikanta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%7C%20Backend%20Engineering%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Java&descAlignY=58&descColor=d1d5db"/>
 
-<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=Profile%20Views&color=0e75b6&style=flat" />
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gowthusaidatta.github.io/my_project/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowthusaidatta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidattagowthu@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AWS+Cloud+Developer;DevOps+Enthusiast;Linux+%7C+Java+%7C+Cloud+Systems;Building+Scalable+Applications"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+# Hi 👋 I'm Datta
+
+### Backend & Cloud Engineer
+
+☁ AWS Developer
+
+⚙ DevOps Enthusiast
+
+💻 Java Developer
+
+🚀 Building scalable systems
+
+🎓 B.Tech CSE (IoT)
+
+🏫 Aditya College of Engineering
+
+---
+
+### About Me
+
+Passionate about:
+
+- Cloud Computing
+- Backend Engineering
+- Linux Administration
+- CI/CD Automation
+- REST APIs
+- Serverless Systems
+
+"I enjoy building systems that solve real problems."
+
+</td>
+
+<td width="50%">
+
+<img align="right" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<a href="https://gowthusaidatta.github.io/my_project/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Science (IoT) Student  
-🏫 Aditya College of Engineering and Technology (2023 – 2027)
-
-☁️ Backend & Cloud Engineer passionate about:
-
-- AWS Cloud
-- Backend Development
-- Linux Administration
-- REST API Development
-- CI/CD Automation
-- DevOps Engineering
-- Cloud Native Systems
-
-💡 Building scalable systems with AWS and backend engineering.
-
----
-
 # ⚡ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,mysql"/>
-
-</p>
-
-### Cloud & DevOps
-
-<p>
+<br>
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,githubactions"/>
 
-</p>
+<br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,react,firebase,mysql"/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-
-</p>
-
-### Tools
-
-<p>
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 CodeSync
+### CodeSync
 
-Cloud-native Coding Analytics Platform
+AWS Lambda • API Gateway • Cognito • Firebase
 
-### Stack
-
-AWS Lambda • API Gateway • Firebase • Cognito • CI/CD • TailwindCSS
-
-### Features
-
-- Coding analytics dashboard
-- AWS Serverless APIs
-- Authentication workflows
-- Smart reminders
-- Cloud dashboards
-- CI/CD automation
-
-Repository:
-
-https://github.com/gowthusaidatta/CodeSync
+Cloud-native coding analytics platform.
 
 ---
 
-## 🔹 StayHub
+### StayHub
 
-Property & Rental Finder Platform
+React • Firebase • Firestore
 
-### Stack
-
-React.js • Firebase • Firestore • Google Cloud
-
-### Features
-
-- Real-time property listings
-- Filtering system
-- Rental discovery
-- Mobile responsive UI
-
-Repository:
-
-https://github.com/gowthusaidatta/StayHub
+Rental property discovery platform.
 
 ---
 
-## 🔹 EventGo
-
-Full Stack Event Platform
-
-### Stack
-
-React • Node.js • Express • AWS
-
-Features:
-
-- Event registration
-- REST APIs
-- Backend validation
-- AWS deployment
-
----
-
-## 🔹 Personalized AI Learning Assistant
-
-AI Telegram Learning Platform
-
-Stack:
+### Personalized AI Learning Assistant
 
 Python • Telegram API • AI
 
-Repository:
-
-https://github.com/gowthusaidatta/Personalized-AI-Learning-Assistant-on-Telegram
-
----
-
-## 🔹 ShadowTrace
-
-Cross Platform Mobile Application
-
-Stack:
-
-Flutter • Dart
-
-Repository:
-
-https://github.com/gowthusaidatta/ShadowTrace
-
----
-
-# 💼 Experience
-
-## AWS Intern — Technical Hub Pvt Ltd
-
-May 2025 – June 2025
-
-- Built serverless AWS applications
-- Worked with Lambda, API Gateway, S3 and IAM
-- Designed secure cloud systems
-- Automated CI/CD workflows
-- Worked on production cloud infrastructure
-
----
-
-# 🏆 Certifications
-
-✅ AWS Certified Developer Associate
-
-✅ RHCSA — Red Hat Certified System Administrator
-
-✅ Oracle Java Certification
-
-✅ Oracle Generative AI Professional
-
-✅ HTML & CSS Specialist Certification
-
-✅ Python Certification
-
-✅ 50+ Google Cloud Skill Badges
+AI learning assistant.
 
 ---
 
 # 📈 Competitive Programming
 
-🟡 LeetCode — 300+ Problems
+🟡 LeetCode — 300+
 
-🟢 GeeksForGeeks — 200+ Problems
+🟢 GFG — 200+
 
-⭐ HackerRank — 5★ Java | SQL | C
+⭐ HackerRank — 5★
 
-🔵 CodeChef — Competitive Programming
+🔵 CodeChef
 
 ---
 
@@ -215,51 +137,36 @@ May 2025 – June 2025
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&theme=github_dark&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Achievements
+# 🏆 Certifications
 
-🏆 YOLO Achievement
+✅ AWS Certified Developer Associate
 
-🦈 Pull Shark Achievement
+✅ RHCSA
 
-📦 59+ Repositories
+✅ Oracle Java
 
-📈 1516+ Contributions Last Year
+✅ Oracle Generative AI
 
----
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/gowthusaidatta">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
+✅ 50+ Google Cloud Skill Badges
 
 ---
 
 <div align="center">
 
-### Building scalable cloud-native systems ☁️
+### Building Cloud Native Systems ☁️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1120,50:16213E,100:0F3460"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
