@@ -33,7 +33,7 @@
 </div>
 
 ---
-
+<!--
 # 🟢 `datta@gowthu:~$ whoami`
 
 <table>
@@ -76,7 +76,7 @@ datta@gowthu:~$ status
 </td>
 </tr>
 </table>
-
+-->
 > 🟢 **MISSION** — Build practical backend systems, automate infrastructure, and turn ideas into scalable cloud-native applications.
 
 ### `~/focus`
