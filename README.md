@@ -1,121 +1,165 @@
 <div align="center">
 
-<img src="./banner.png" width="100%"/>
+<!-- ======================= TERMINAL HEADER ======================= -->
 
-<br>
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ●  ●  ●   datta@gowthu: ~/github-profile                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   ██████╗  █████╗ ████████╗████████╗ █████╗                                │
+│   ██╔══██╗██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗                               │
+│   ██║  ██║███████║   ██║      ██║   ███████║                               │
+│   ██║  ██║██╔══██║   ██║      ██║   ██╔══██║                               │
+│   ██████╔╝██║  ██║   ██║      ██║   ██║  ██║                               │
+│   ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝                               │
+│                                                                              │
+│   Backend Engineer  •  AWS Cloud Developer  •  DevOps Engineer              │
+│   Java Developer     •  Linux / Cloud Systems                               │
+│                                                                              │
+│   datta@gowthu:~$ ./build-scalable-systems.sh                              │
+│   [████████████████████████████████████████] 100%                           │
+│   status: ONLINE                                                             │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;AWS+Cloud+Developer;DevOps+Engineer;Java+Developer;Linux+%7C+Cloud+Systems;Building+Scalable+Applications"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<!-- Replace the terminal-art block above with your existing banner.png if you
+     want the original banner visible. The rest of this README remains code. -->
 
 <a href="https://gowthusaidatta.github.io/my_project/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0F0E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F0E?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-
 <a href="https://github.com/gowthusaidatta">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-0B0F0E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br>
 
----
-
-# 👨‍💻 About Me
-
-Hi 👋 I'm **Datta**
-
-🎓 B.Tech Computer Science (IoT) Student
-
-🏫 Aditya College of Engineering and Technology
-
-☁ Backend & Cloud Engineer
-
-⚙ AWS Developer
-
-💻 Java Developer
-
-🚀 Building scalable cloud-native systems
-
----
-
-### Passionate About
-
-- Cloud Computing
-- Backend Engineering
-- Linux Administration
-- DevOps
-- CI/CD Automation
-- REST APIs
-- Serverless Systems
-- System Design
-
-> "I enjoy building systems that solve real problems."
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,mysql"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,githubactions"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=PROFILE+VIEWS&color=238636&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 Coding Profiles
+## `datta@gowthu:~$ whoami`
 
-<div align="center">
+```text
+USER        : Datta
+ROLE        : Backend / Cloud Engineer
+SPECIALITY  : AWS • Java • Linux • DevOps
+EDUCATION   : B.Tech Computer Science (IoT)
+COLLEGE     : Aditya College of Engineering and Technology
+LOCATION    : India
+STATUS      : Building & Learning
+```
+
+> I enjoy building systems that solve real problems — from backend APIs and
+> cloud infrastructure to automation, authentication and scalable applications.
+
+---
+
+## `datta@gowthu:~$ cat about.txt`
+
+I'm **Gowthu V V Satya Sai Datta Manikanta Gowthu**, a Computer Science (IoT)
+student focused on backend engineering, cloud infrastructure and DevOps.
+
+```text
++---------------------------------------------------------------+
+|                         CURRENT FOCUS                          |
++---------------------------------------------------------------+
+| Backend Engineering                                           |
+| AWS Cloud Development                                         |
+| Linux Administration                                          |
+| DevOps & CI/CD                                                 |
+| REST API Development                                          |
+| Serverless Architecture                                       |
+| Authentication & Authorization                                |
+| System Design                                                  |
+| Cloud-Native Applications                                     |
++---------------------------------------------------------------+
+```
+
+---
+
+## `datta@gowthu:~$ ls -lah skills/`
+
+### `/languages`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,mysql" />
+</p>
+
+### `/cloud-devops`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,githubactions" />
+</p>
+
+### `/backend`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+### `/frontend`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### `/tools`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## `datta@gowthu:~$ ./coding-profiles.sh`
+
+```text
+┌──────────────────┬─────────────────────────────────────────────┐
+│ PLATFORM         │ PROFILE                                     │
+├──────────────────┼─────────────────────────────────────────────┤
+│ LeetCode         │ 300+ Problems                               │
+│ GeeksForGeeks    │ 200+ Problems                               │
+│ HackerRank       │ 5★ Java • SQL • C                           │
+│ CodeChef         │ Competitive Programming                     │
+│ Codeforces       │ Competitive Programming                     │
+└──────────────────┴─────────────────────────────────────────────┘
+```
+
+<p align="center">
 
 <a href="https://leetcode.com/u/G_Saidatta">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-0B0F0E?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/gowthusaidatta">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-0B0F0E?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
 </a>
 
 <a href="https://www.codechef.com/users/saidattagowthu">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-0B0F0E?style=for-the-badge&logo=codechef&logoColor=8B4513"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/saidattagowthu">
-<img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksForGeeks-0B0F0E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
 </a>
 
 <a href="https://codeforces.com/profile/saidatta_gowthu">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-0B0F0E?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 📊 Coding Statistics
+## `datta@gowthu:~$ htop --developer`
 
 <div align="center">
 
@@ -129,155 +173,213 @@ Hi 👋 I'm **Datta**
 
 ---
 
-# 🚀 Featured Projects
+## `datta@gowthu:~$ git status`
 
-<table>
+```text
+On branch main
 
-<tr>
+Your branch is focused on:
 
-<td width="50%">
+  ✓ Backend systems
+  ✓ Cloud infrastructure
+  ✓ Linux environments
+  ✓ DevOps automation
+  ✓ Scalable APIs
+  ✓ Authentication systems
 
-## 🔹 CodeSync
-
-AWS Lambda • API Gateway • Cognito • Firebase • TailwindCSS
-
-Competitive Programming Analytics Dashboard
-
-### Features
-
-- Coding analytics
-- AWS Lambda APIs
-- Smart reminders
-- Cloud dashboards
-- Authentication
-- CI/CD automation
-
-</td>
-
-<td width="50%">
-
-## 🔹 EventGo
-
-React • Node.js • Express • AWS
-
-College Event Management Platform
-
-### Features
-
-- Event registration
-- Backend validation
-- REST APIs
-- Cloud deployment
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🔹 ShadowTrace
-
-Flutter • Dart
-
-Cross Platform Mobile Application
-
-### Features
-
-- Flutter UI
-- Mobile application
-- Cross platform support
-
-</td>
-
-<td width="50%">
-
-## 🔹 StayHub
-
-React • Firebase • Firestore
-
-Property Rental Platform
-
-### Features
-
-- Property search
-- Real-time listings
-- Filtering system
-
-</td>
-
-</tr>
-
-</table>
+nothing to commit, working tree clean.
+```
 
 ---
 
-# 🏆 Certifications
+## `datta@gowthu:~$ ls projects/`
 
-✅ AWS Certified Developer Associate
+### `01 → CodeSync`
 
-✅ RHCSA (Red Hat Certified System Administrator)
+```text
+PROJECT      : CodeSync
+TYPE         : Coding Analytics Platform
+STACK        : AWS • Python • TailwindCSS
 
-✅ Oracle Java Certification
+FEATURES
+├── Coding analytics
+├── AWS Lambda APIs
+├── API Gateway
+├── Cognito authentication
+├── Cloud dashboards
+├── Smart reminders
+└── CI/CD automation
+```
 
-✅ Oracle Generative AI Professional
+### `02 → EventGo`
 
-✅ HTML & CSS Specialist Certification
+```text
+PROJECT      : EventGo
+TYPE         : College Event Management Platform
+STACK        : React • Node.js • Express • AWS
 
-✅ Python Programming Certification
+FEATURES
+├── Event registration
+├── Backend validation
+├── REST APIs
+└── Cloud deployment
+```
 
-✅ 50+ Google Cloud Skill Badges
+### `03 → ShadowTrace`
+
+```text
+PROJECT      : ShadowTrace
+TYPE         : Cross Platform Mobile Application
+STACK        : Flutter • Dart
+
+FEATURES
+├── Flutter UI
+├── Mobile application
+└── Cross-platform support
+```
+
+### `04 → StayHub`
+
+```text
+PROJECT      : StayHub
+TYPE         : Property Rental Platform
+STACK        : React • Firebase • Firestore
+
+FEATURES
+├── Property search
+├── Real-time listings
+└── Filtering system
+```
 
 ---
 
-# 📈 Competitive Programming
+## `datta@gowthu:~$ cat certifications.log`
 
-🟡 LeetCode → 300+ Problems
-
-🟢 GeeksForGeeks → 200+ Problems
-
-⭐ HackerRank → 5★ Java | SQL | C
-
-🔵 CodeChef → Competitive Programming
+```text
+[✓] AWS Certified Developer Associate
+[✓] RHCSA — Red Hat Certified System Administrator
+[✓] Oracle Java Certification
+[✓] Oracle Generative AI Professional
+[✓] HTML & CSS Specialist Certification
+[✓] Python Programming Certification
+[✓] 50+ Google Cloud Skill Badges
+```
 
 ---
 
-# 📊 GitHub Analytics
+## `datta@gowthu:~$ cat experience.log`
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│ AWS INTERN                                                     │
+│ Technical Hub Pvt Ltd                                          │
+│ May 2025 — June 2025                                           │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ • AWS Lambda                                                   │
+│ • API Gateway                                                  │
+│ • IAM                                                          │
+│ • S3                                                           │
+│ • CI/CD Pipelines                                              │
+│ • Serverless Deployment                                        │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `datta@gowthu:~$ ./github-stats.sh`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F0E&title_color=58A6FF&icon_color=238636&text_color=C9D1D9"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&theme=dark&hide_border=true&background=0B0F0E&ring=238636&fire=FFA657&currStreakLabel=58A6FF"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0F0E&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-# 💼 Experience
+## `datta@gowthu:~$ neofetch`
 
-### AWS Intern — Technical Hub Pvt Ltd
+```text
+                 .-/+oossssoo+/-.                  datta@gowthu
+             `:+ssssssssssssssssss+:`              ----------------
+           -+ssssssssssssssssssyyssss+-             OS       : Linux
+         .ossssssssssssssssssdMMMNysssso.           Shell    : bash
+        /ssssssssssshdmmNNmmyNMMMMhssssss/          Editor   : VS Code
+       +ssssssssshmydMMMMMMMNddddyssssssss+         Cloud    : AWS / GCP
+      /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/        Backend  : Java / Node.js
+     .sssssssdMMMNhsssssssssshNMMMdssssssss.        DevOps   : Docker / CI/CD
+     +sssshhhyNMMNyssssssssssssyNMMMysssssss+       Status   : Learning / Building
+     ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+     ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+     +sssshhhyNMMNyssssssssssssyNMMMysssssss+
+     .sssssssdMMMNhsssssssssshNMMMdssssssss.
+      /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+       +sssssssssdmydMMMMMMMMddddyssssssss+
+        .ossssssssssssssssssdMMMNysssso.
+          -+sssssssssssssssssyyyssss+-.
+             `:+ssssssssssssssssss+:`
+                 .-/+oossssoo+/-.
+```
 
-May 2025 — June 2025
+---
 
-- AWS Lambda
-- API Gateway
-- IAM
-- S3
-- CI/CD pipelines
-- Serverless deployment
+## `datta@gowthu:~$ uptime`
+
+```text
+Learning      : ████████████████████ 100%
+Building      : ██████████████████░░  90%
+Problem Solving: █████████████████░░░  85%
+Cloud         : ██████████████████░░  90%
+Linux         : ████████████████░░░░  80%
+DevOps        : ███████████████░░░░░  75%
+```
+
+---
+
+## `datta@gowthu:~$ connect`
+
+<p align="center">
+
+<a href="https://gowthusaidatta.github.io/my_project/">
+<img src="https://img.shields.io/badge/Portfolio-0B0F0E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F0E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Building Cloud Native Systems ☁
+```text
+datta@gowthu:~$ ./build-future.sh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1120,50:16213E,100:0F3460"/>
+[INFO] Initializing...
+[INFO] Building cloud-native systems...
+[INFO] Automating everything possible...
+[INFO] Learning something new every day...
+
+████████████████████████████████████████ 100%
+
+BUILD SUCCESSFUL
+
+datta@gowthu:~$ _
+```
+
+### `Building Cloud Native Systems ☁`
 
 </div>
