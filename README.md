@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./wide_cinematic_futuristic_tech_themed_infographi.png"
-     width="100%"
-     alt="Linux themed developer banner"/>
+<img
+  src="./banner.png"
+  width="100%"
+  alt="Gowthu Sai Datta Manikanta - Linux Developer Banner"
+/>
 
 <br/>
 
