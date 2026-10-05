@@ -1,22 +1,32 @@
 <div align="center">
 
-<img src="./terminal.svg" width="100%" alt="Animated Linux terminal profile"/>
+<img src="./wide_cinematic_futuristic_tech_themed_infographi.png"
+     width="100%"
+     alt="Linux themed developer banner"/>
 
 <br/>
 
+<img src="./terminal.svg"
+     width="100%"
+     alt="Animated Linux terminal profile"/>
+
+<br/><br/>
+
 <a href="https://gowthusaidatta.github.io/my_project/">
-<img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=vercel&logoColor=50FA7B"/>
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=linux&logoColor=39FF88"/>
 </a>
+
 <a href="https://linkedin.com/in/v-v-satya-sai-datta-manikanta-gowthu-41709b291">
-<img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
+
 <a href="https://github.com/gowthusaidatta">
-<img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8F8F2"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=PROFILE+VIEWS&color=50FA7B&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gowthusaidatta&label=PROFILE+VIEWS&color=39FF88&style=for-the-badge"/>
 
 </div>
 
@@ -33,8 +43,10 @@ COLLEGE     : Aditya College of Engineering and Technology
 STATUS      : Building scalable cloud-native systems
 ```
 
-> I enjoy building systems that solve real problems — from backend APIs and
-> cloud infrastructure to automation, authentication and scalable applications.
+> **Terminal palette:** `#39FF88` green • `#00D9FF` cyan • `#FFA116` amber • `#C084FC` purple • `#0D1117` shell black
+
+> I enjoy building systems that solve real problems — from backend APIs,
+> cloud infrastructure, automation, authentication, and scalable applications.
 
 ---
 
@@ -56,31 +68,31 @@ FOCUS
 
 ## `datta@gowthu:~$ ls skills/`
 
-### `languages`
+### `languages/`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,mysql&theme=dark"/>
 </p>
 
-### `cloud`
+### `cloud/`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,githubactions&theme=dark"/>
 </p>
 
-### `backend`
+### `backend/`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark"/>
 </p>
 
-### `frontend`
+### `frontend/`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
 </p>
 
-### `tools`
+### `tools/`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
@@ -91,15 +103,31 @@ FOCUS
 ## `datta@gowthu:~$ ./coding-profiles.sh`
 
 <p align="center">
-<a href="https://leetcode.com/u/G_Saidatta"><img src="https://img.shields.io/badge/LeetCode-282A36?style=for-the-badge&logo=leetcode&logoColor=FFB86C"/></a>
-<a href="https://www.hackerrank.com/profile/gowthusaidatta"><img src="https://img.shields.io/badge/HackerRank-282A36?style=for-the-badge&logo=hackerrank&logoColor=50FA7B"/></a>
-<a href="https://www.codechef.com/users/saidattagowthu"><img src="https://img.shields.io/badge/CodeChef-282A36?style=for-the-badge&logo=codechef&logoColor=F1FA8C"/></a>
-<a href="https://www.geeksforgeeks.org/user/saidattagowthu"><img src="https://img.shields.io/badge/GFG-282A36?style=for-the-badge&logo=geeksforgeeks&logoColor=50FA7B"/></a>
-<a href="https://codeforces.com/profile/saidatta_gowthu"><img src="https://img.shields.io/badge/Codeforces-282A36?style=for-the-badge&logo=codeforces&logoColor=8BE9FD"/></a>
+
+<a href="https://leetcode.com/u/G_Saidatta">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/gowthusaidatta">
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=39FF88"/>
+</a>
+
+<a href="https://www.codechef.com/users/saidattagowthu">
+<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=F7C843"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/saidattagowthu">
+<img src="https://img.shields.io/badge/GFG-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=39FF88"/>
+</a>
+
+<a href="https://codeforces.com/profile/saidatta_gowthu">
+<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+</a>
+
 </p>
 
 ```text
-LeetCode       → 300+ Problems
+LeetCode       → 400+ Problems
 GeeksForGeeks  → 200+ Problems
 HackerRank     → 5★ Java | SQL | C
 CodeChef       → Competitive Programming
@@ -112,13 +140,21 @@ Codeforces     → Competitive Programming
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=50FA7B&icon_color=8BE9FD&text_color=F8F8F2"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=gowthusaidatta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=00D9FF&text_color=F8F8F2&include_all_commits=true"
+/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&theme=dracula&hide_border=true&background=282A36&ring=50FA7B&fire=FFB86C&currStreakLabel=8BE9FD"/>
+<img
+  height="180"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=gowthusaidatta&hide_border=true&background=0D1117&ring=39FF88&fire=FFA116&currStreakLabel=00D9FF&sideLabels=F8F8F2&dates=8B949E&currStreakNum=39FF88"
+/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=50FA7B&text_color=F8F8F2"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthusaidatta&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=F8F8F2"
+/>
 
 </div>
 
@@ -126,7 +162,7 @@ Codeforces     → Competitive Programming
 
 ## `datta@gowthu:~$ ls projects/`
 
-### `CodeSync`
+### `CodeSync/`
 
 ```text
 TYPE     : Competitive Programming Analytics Platform
@@ -140,7 +176,7 @@ FEATURES
 └── CI/CD automation
 ```
 
-### `EventGo`
+### `EventGo/`
 
 ```text
 TYPE     : College Event Management Platform
@@ -153,7 +189,7 @@ FEATURES
 └── Cloud deployment
 ```
 
-### `ShadowTrace`
+### `ShadowTrace/`
 
 ```text
 TYPE     : Cross Platform Mobile Application
@@ -165,7 +201,7 @@ FEATURES
 └── Cross-platform support
 ```
 
-### `StayHub`
+### `StayHub/`
 
 ```text
 TYPE     : Property Rental Platform
@@ -245,9 +281,9 @@ chore: keep learning
 
 <div align="center">
 
-```text
-datta@gowthu:~$ ./build-future.sh
+## `datta@gowthu:~$ ./build-future.sh`
 
+```text
 [████████████████████████████████████████] 100%
 
 ✓ Backend systems
@@ -262,6 +298,8 @@ BUILD SUCCESSFUL
 datta@gowthu:~$ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:282A36,50:0B1F14,100:050505&animation=twinkling"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,35:12372A,70:0B5D45,100:050505&animation=twinkling"
+/>
 
 </div>
