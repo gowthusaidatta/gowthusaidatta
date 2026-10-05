@@ -34,58 +34,62 @@
 
 ---
 
-# <font color="#39FF88">👨‍💻 About Me</font>
+# 🟢 `datta@gowthu:~$ whoami`
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 🟢 Identity
+
+| | |
+|---|---|
+| **USER** | `G V V S Datta Manikanta` |
+| **ROLL NO** | `23MH1A4918` |
+| **ROLE** | `Backend / Cloud Engineer` |
+| **SPECIALITY** | `AWS • Java • Linux • DevOps` |
+| **EDUCATION** | `B.Tech CSE (IoT)` |
+| **COLLEGE** | `Aditya College of Engineering and Technology` |
+
+</td>
+<td width="48%" valign="top">
+
+### 🔵 Runtime
+
+```text
+datta@gowthu:~$ status
+
+● ONLINE
+● BUILDING
+● LEARNING
+● DEPLOYING
+```
+
+**Portfolio**
+
+`saidatta.tech`
+
+**Email**
+
+`saidattagowthu@gmail.com`
+
+</td>
+</tr>
+</table>
+
+> 🟢 **MISSION** — Build practical backend systems, automate infrastructure, and turn ideas into scalable cloud-native applications.
+
+### `~/focus`
 
 <div align="center">
 
-```text
-datta@gowthu:~$ whoami
-
-USER        : G V V S Datta Manikanta
-ROLL NO     : 23MH1A4918
-ROLE        : Backend / Cloud Engineer
-SPECIALITY  : AWS • Java • Linux • DevOps
-EDUCATION   : B.Tech Computer Science & Engineering (IoT)
-COLLEGE     : Aditya College of Engineering and Technology
-PORTFOLIO   : saidatta.tech
-STATUS      : Building scalable cloud-native systems
-```
+| 🟢 Backend | 🔵 Cloud | 🟣 DevOps | 🟠 Engineering |
+|:---:|:---:|:---:|:---:|
+| REST APIs | AWS / GCP | CI/CD | System Design |
+| Java / Node.js | Serverless | Docker | Authentication |
+| Databases | Cloud Architecture | Linux | Automation |
 
 </div>
-
-Hi 👋 I'm **Datta**.
-
-🎓 B.Tech Computer Science & Engineering (IoT) Student
-
-🏫 Aditya College of Engineering and Technology
-
-☁ **Backend & Cloud Engineer**
-
-⚙ **AWS Developer**
-
-💻 **Java Developer**
-
-🐧 **Linux & DevOps Enthusiast**
-
-🚀 **Building scalable cloud-native systems**
-
-📧 **saidattagowthu@gmail.com**
-
----
-
-## <font color="#00D9FF">Passionate About</font>
-
-- ☁ Cloud Computing
-- 🖥️ Backend Engineering
-- 🐧 Linux Administration
-- ⚙ DevOps
-- 🔄 CI/CD Automation
-- 🔌 REST APIs
-- λ Serverless Systems
-- 🔐 Authentication
-- 🏗️ System Design
-
-> **"I enjoy building systems that solve real problems."**
 
 ---
 
@@ -261,23 +265,45 @@ Property Rental Platform
 
 ---
 
-# <font color="#C084FC">🏆 Certifications</font>
+# 🏆 `datta@gowthu:~$ cat certifications.log`
 
 <div align="center">
 
-```text
-[  OK  ] AWS Certified Developer Associate
-[  OK  ] RHCSA — Red Hat Certified System Administrator
-[  OK  ] Oracle Java Certification
-[  OK  ] Oracle Generative AI Professional
-[  OK  ] HTML & CSS Specialist Certification
-[  OK  ] Python Programming Certification
-[  OK  ] 50+ Google Cloud Skill Badges
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 Cloud & Systems
+
+| Status | Certification |
+|:---:|---|
+| 🟢 `OK` | **AWS Certified Developer Associate** |
+| 🟢 `OK` | **RHCSA** — Red Hat Certified System Administrator |
+| 🟢 `OK` | **50+ Google Cloud Skill Badges** |
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔵 Development & AI
+
+| Status | Certification |
+|:---:|---|
+| 🟢 `OK` | **Oracle Java Certification** |
+| 🟢 `OK` | **Oracle Generative AI Professional** |
+| 🟢 `OK` | **HTML & CSS Specialist Certification** |
+| 🟢 `OK` | **Python Programming Certification** |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-7_CERTIFICATIONS-39FF88?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
----
 
 # <font color="#39FF88">📊 GitHub Analytics</font>
 
@@ -316,30 +342,58 @@ Serverless Deployment
 
 ---
 
-# <font color="#00D9FF">🐧 `datta@gowthu:~$ neofetch`</font>
+# 🐧 `datta@gowthu:~$ neofetch`
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+```text
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
+**LINUX DEVELOPER**
+
+`backend • cloud • devops`
+
+</td>
+
+<td width="66%" valign="top">
+
+### `SYSTEM PROFILE`
+
+| Field | Value |
+|---|---|
+| 🟢 **User** | `Datta` |
+| 🟢 **Roll No** | `23MH1A4918` |
+| 🔵 **OS** | `Linux` |
+| 🔵 **Shell** | `Bash` |
+| 🟣 **Editor** | `VS Code` |
+| 🟠 **Cloud** | `AWS / GCP` |
+| 🟠 **Backend** | `Java / Node.js` |
+| 🔵 **Database** | `MySQL / Firestore` |
+| 🟢 **DevOps** | `Docker / GitHub Actions / CI/CD` |
+| 🟢 **Portfolio** | [`saidatta.tech`](https://saidatta.tech) |
+| 🟢 **Status** | `● ONLINE` |
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-```text
-              SYSTEM PROFILE
-────────────────────────────────────────────────────
-User        : Datta
-Roll No     : 23MH1A4918
-OS          : Linux
-Shell       : Bash
-Editor      : VS Code
-Cloud       : AWS / GCP
-Backend     : Java / Node.js
-Database    : MySQL / Firestore
-DevOps      : Docker / GitHub Actions / CI/CD
-Portfolio   : saidatta.tech
-Status      : ● ONLINE
-────────────────────────────────────────────────────
-```
+`datta@gowthu:~$ systemctl status developer`
+
+**● ACTIVE — running successfully**
 
 </div>
 
----
 
 # <font color="#C084FC">`datta@gowthu:~$ git log --oneline`</font>
 
